@@ -1,6 +1,6 @@
 # PRODIGY_DS_03
 ## Objective
-   My third internship task as Data Science Intern at Prodigy InfoTech, focused on deploying a Decision Tree Classifier.
+   My third task as Data Science Intern at Prodigy InfoTech, focused on deploying a Decision Tree Classifier.
 
 ## Overview
    This project analyzes a bank marketing dataset to explore customer demographics and behaviors, with a focus on predicting whether a customer will subscribe to a term deposit. Using Python libraries such as Pandas, Numpy, Matplotlib, and Seaborn for data preprocessing and visualization, the project delves into feature engineering by categorizing job types and analyzing their impact on account balances. A Decision Tree Classifier is then employed to model the data, with accuracy assessments both before and after applying cost complexity pruning to optimize the model's performance. 
